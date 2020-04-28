@@ -1,0 +1,27 @@
+body{
+	background-color: salmon;
+}
+
+h1{
+		font-size: 30px;
+		color: darksalmon;
+		font-family: Helvetica;
+}
+
+h2{
+		font-family: Helvetica
+}
+
+.big{
+		font-family: Helvetica
+		font-size: 40px;
+}
+
+.uppercase{
+		font-family: Helvetica
+		text-transform: uppercase;
+}
+
+.big.uppercase{
+		color: navy;
+}
